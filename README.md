@@ -1,5 +1,3 @@
-# Hiya 👋
-
 You might know me for my [writing on zip bombs](https://blog.matthewbarber.io/2019/07/22/how-to-make-compressed-file-quines), which explains compression-algo-tomfoolery with fun and descriptive ASCII charts. Mac users hate me for it [;)](https://twitter.com/_tallison/status/1245100964111159298)
 
 ```console
