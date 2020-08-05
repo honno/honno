@@ -20,7 +20,7 @@ honno:~$ gunzip quine.gz --name
 gzip: quine.gz already exists; do you wish to overwrite (y or n)? y
 honno:~$ hexdump quine.gz > dump2.txt
 honno:~$ cmp dump.txt dump2.txt ...
-omg its a gzip black hole!!
+zomg its a gzip black hole!!
 ```
 
 I'm currently developing [**coinflip**](https://github.com/Honno/coinflip), the first randomness testing suite that you'll actually enjoy using.
