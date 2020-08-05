@@ -1,4 +1,4 @@
-You might know me for my [writing on zip bombs](https://blog.matthewbarber.io/2019/07/22/how-to-make-compressed-file-quines), which explains compression-algo-tomfoolery with fun and descriptive ASCII charts. Mac users hate me for it [;)](https://twitter.com/_tallison/status/1245100964111159298)
+You might know me for my [writing on zip bombs](https://blog.matthewbarber.io/2019/07/22/how-to-make-compressed-file-quines), which explains compression-algo-tomfoolery with fun and descriptive ASCII charts. Mac users hate me for it [<sub>;)</sub>](https://twitter.com/_tallison/status/1245100964111159298)
 
 ```console
 $ hexdump quine.gz > dump.txt
@@ -23,8 +23,6 @@ $ cmp dump.txt dump2.txt ...
 omg its a gzip black hole!!
 ```
 
-I'm currently developing [coinflip](https://github.com/Honno/coinflip), the first randomness testing suite that you'll actually enjoy using.
+I'm currently developing [**coinflip**](https://github.com/Honno/coinflip), the first randomness testing suite that you'll actually enjoy using.
 
-Looking for a UK graduate job pertaining to software engineering—pop me an [email](mailto:quitesimplymatt@gmail.com) if you're interested!
-
-[matthewbarber.io](https://matthewbarber.io/) 🡸 list of my past software projects
+Looking for a graduate job pertaining to software engineering, UK or abroad—pop me an [email](mailto:quitesimplymatt@gmail.com) if you're interested!
