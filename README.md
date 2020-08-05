@@ -1,8 +1,8 @@
 You might know me for my [writing on zip bombs](https://blog.matthewbarber.io/2019/07/22/how-to-make-compressed-file-quines), which explains compression-algo-tomfoolery with fun and descriptive ASCII charts. Mac users hate me for it [<sub>;)</sub>](https://twitter.com/_tallison/status/1245100964111159298)
 
 ```console
-$ hexdump quine.gz > dump.txt
-$ cat dump.txt
+honno:~$ hexdump quine.gz > dump.txt
+honno:~$ cat dump.txt
 0000000 1f 8b 08 08 00 00 00 00 00 ff 71 75 69 6e 65 2e
 0000020 67 7a 00 00 18 00 e7 ff 1f 8b 08 08 00 00 00 00
 0000040 00 ff 71 75 69 6e 65 2e 67 7a 00 00 18 00 e7 ff
@@ -16,10 +16,10 @@ $ cat dump.txt
 0000240 21 c4 00 00 00 00 ff ff 00 00 00 ff ff 00 0d 00
 0000260 f2 ff 83 70 a0 1c 00 ff 79 ff a9 cc 00 00 00 83
 0000300 70 a0 1c 00 ff 79 ff a9 cc 00 00 00
-$ gunzip quine.gz --name
+honno:~$ gunzip quine.gz --name
 gzip: quine.gz already exists; do you wish to overwrite (y or n)? y
-$ hexdump quine.gz > dump2.txt
-$ cmp dump.txt dump2.txt ...
+honno:~$ hexdump quine.gz > dump2.txt
+honno:~$ cmp dump.txt dump2.txt ...
 omg its a gzip black hole!!
 ```
 
