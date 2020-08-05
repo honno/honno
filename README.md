@@ -1,4 +1,4 @@
-You might know me for my [writing on zip bombs](https://blog.matthewbarber.io/2019/07/22/how-to-make-compressed-file-quines), which explains compression-algo-tomfoolery with fun and descriptive ASCII charts. macOS users hate me for it [<sub>;)</sub>](https://twitter.com/_tallison/status/1245100964111159298)
+You might know me for my [writing on zip bombs](https://blog.matthewbarber.io/2019/07/22/how-to-make-compressed-file-quines), where we made ⚠ [quine.gz](https://blog.matthewbarber.io/downloads/quine.gz) ⚠ together. I'm particularly proud of how I teach compression-algorithm-tomfoolery with fun and descriptive ASCII charts. My recursive `.gz` file is used in testing Apache's [Tika](https://tika.apache.org/) project, and is currently [wreaking havoc](https://twitter.com/_tallison/status/1245100964111159298) on modern Mac systems 😈
 
 ```console
 honno:~$ hexdump quine.gz > dump.txt
@@ -11,10 +11,10 @@ honno:~$ head -2 dump.txt; echo "..."; tail -2 dump.txt;
 honno:~$ gunzip quine.gz --name
 gzip: quine.gz already exists; do you wish to overwrite (y or n)? y
 honno:~$ hexdump quine.gz > dump2.txt
-honno:~$ cmp dump.txt dump2.txt ...
-zomg its a gzip black hole!!
+honno:~$ cmp dump.txt dump2.txt && echo ":) it matches!!" || echo "did not match :("
+:) it matches!!
 ```
 
-I'm currently developing [**coinflip**](https://github.com/Honno/coinflip), the first randomness testing suite that you'll actually enjoy using.
+I'm currently developing [**coinflip**](https://github.com/Honno/coinflip), a randomness testing suite made in *Python*. I take great efforts in providing a user friendly experience, whilst also ensuring reliability and validity by utilising the excellent [Hypothesis](https://github.com/HypothesisWorks/hypothesis) library. It started as my undergrad thesis project, with my final report available as [📜 PDF](https://raw.githubusercontent.com/Honno/coinflip/report/report.pdf), and my presentation available on [▶ YouTube](https://www.youtube.com/watch?v=0xrWG3Ki9Z8).
 
-Looking for a graduate job pertaining to software engineering, UK or abroad—pop me an [email](mailto:quitesimplymatt@gmail.com) if you're interested!
+At the moment I'm looking for a graduate role, UK or abroad—pop me an [email](mailto:quitesimplymatt@gmail.com) if you're interested in hiring me!
