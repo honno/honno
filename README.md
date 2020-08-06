@@ -2,10 +2,9 @@ You might know me for my [writing on zip bombs](https://blog.matthewbarber.io/20
 
 ```console
 honno:~$ hexdump quine.gz > dump.txt
-honno:~$ head -2 dump.txt; echo "..."; tail -2 dump.txt;
+honno:~$ head -2 dump.txt; tail -2 dump.txt;
 0000000 1f 8b 08 08 00 00 00 00 00 ff 71 75 69 6e 65 2e
 0000020 67 7a 00 00 18 00 e7 ff 1f 8b 08 08 00 00 00 00
-...
 0000260 f2 ff 83 70 a0 1c 00 ff 79 ff a9 cc 00 00 00 83
 0000300 70 a0 1c 00 ff 79 ff a9 cc 00 00 00
 honno:~$ gunzip quine.gz --name
