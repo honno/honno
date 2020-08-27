@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Honno/Honno/main/maria.gif" align="left">
+<img src="https://raw.githubusercontent.com/Honno/Honno/main/maria.gif" align="right">
 
 I'm currently developing [**coinflip**](https://github.com/Honno/coinflip), a randomness testing suite made in Python. It started as my undergrad thesis project, with my final report available as [📜 PDF](https://raw.githubusercontent.com/Honno/coinflip/report/report.pdf), and my presentation available on [▶ YouTube](https://www.youtube.com/watch?v=0xrWG3Ki9Z8).
 
