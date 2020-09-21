@@ -2,4 +2,4 @@ I'm currently developing [**coinflip**](https://github.com/Honno/coinflip), a ra
 
 You might know me for my [writing on recursive gzip bombs](https://blog.matthewbarber.io/2019/07/22/how-to-make-compressed-file-quines), where we made ⚠ [quine.gz](https://blog.matthewbarber.io/downloads/quine.gz) ⚠ together. I'm particularly proud of how I teach compression-algorithm-tomfoolery with fun and descriptive ASCII charts. My recursive compressed file is used in testing Apache's [Tika](https://tika.apache.org/) project, and is currently [wreaking havoc](https://twitter.com/_tallison/status/1245100964111159298) on modern Mac systems 😈
 
-I'm looking for a graduate role, UK or abroad—pop me an [email](mailto:quitesimplymatt@gmail.com) if you're interested in hiring me! My résumé is available [here](https://matthewbarber.io/assets/home/matthew-barber-cv-online.pdf) :)
+I'm looking for a graduate role, UK or abroad—pop me an [email](mailto:quitesimplymatt@gmail.com) if you're interested in hiring me! My résumé is available [here](https://raw.githubusercontent.com/Honno/curriculum-vitae/main/matthew-barber-cv.pdf) :)
