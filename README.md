@@ -1,4 +1,6 @@
-Hello there! I'm Matthew, a software engineer based in the UK. You might know me for...
+#### 👋 Hello there!
+
+I'm Matthew, a software engineer based in the UK. You might know me for...
 
 - 🏢 Interning [@Quansight-Labs](https://github.com/Quansight-Labs) to create [testing tools](https://github.com/honno/hypothesis-array-api) for [Array API](https://data-apis.org/blog/array_api_standard_release/) adopters
 - 🐍 Using Python for pretty much everything
