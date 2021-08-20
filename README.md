@@ -1,4 +1,4 @@
-#### 👋 Hello there!
+##### Hey there (´･ᴗ･ ` )
 
 I'm Matthew, a software engineer based in the UK. You might know me for...
 
