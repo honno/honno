@@ -8,5 +8,3 @@ I'm Matthew, a software engineer based in the UK. You might know me for...
 - 🏛 Bringing back lost media back to the public with [yygarchive.org](https://www.yygarchive.org)
 - 💣 Writing a GZIP bomb and [teaching others](https://honno.dev/gzip-quine) how to make their own
 - 🖌  Drawing ASCII and ANSI art
-
-I'm looking for a data science and/or software engineering role after my internship ends (30th September), UK or abroad—pop me an [email](mailto:quitesimplymatt@gmail.com) if you're interested in hiring me! My résumé is available [here](https://raw.githubusercontent.com/honno/curriculum-vitae/main/matthew-barber-cv.pdf) :)
