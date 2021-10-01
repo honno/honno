@@ -2,7 +2,7 @@
 
 I'm Matthew, a software engineer based in the UK. You might know me for...
 
-- 🏢 Interning [@Quansight-Labs](https://github.com/Quansight-Labs) to help shape the [Array API](https://data-apis.org/blog/array_api_standard_release/) ecosystem
+- 🏢 Growing the [Array API](https://data-apis.org/blog/array_api_standard_release/) ecosystem [@Quansight-Labs](https://github.com/Quansight-Labs)
 - 🐛 Contributing [array strategies](https://hypothesis.readthedocs.io/en/latest/numpy.html#array-api) to [Hypothesis](https://github.com/HypothesisWorks/hypothesis/)
 - 🎲 Testing random numbers with my [prngtest](https://github.com/honno/prngtest) suite (previously [coinflip](https://github.com/honno/coinflip))
 - 🏛 Bringing back lost media back to the public with [yygarchive.org](https://www.yygarchive.org)
