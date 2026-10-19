@@ -2,7 +2,7 @@
 
 I'm Matthew, a software engineer based in the UK. You might know me for...
 
-- 🏢 Engineering pipelines at [Hexegic](https://www.hexegic.com/)
+- 🏢 Working at @artificiallabs
 - 📈 Testing [Array API](https://data-apis.org/blog/array_api_standard_release/) adoption with [`array-api-tests`](https://github.com/data-apis/array-api-tests/)
 - 🐛 Contributing [array strategies](https://hypothesis.readthedocs.io/en/latest/numpy.html#array-api) to [Hypothesis](https://github.com/HypothesisWorks/hypothesis/)
 - 🎲 Testing random numbers with my [`prngtest`](https://github.com/honno/prngtest) suite (previously [`coinflip`](https://github.com/honno/coinflip))
